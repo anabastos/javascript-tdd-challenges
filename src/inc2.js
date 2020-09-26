@@ -1,4 +1,5 @@
 import { add } from 'ramda';
+
 const inc2 = add(2);
 const inc22 = (x) => x + 2;
 
